@@ -21,7 +21,7 @@ Community maintained list of Algorithm and Data Structure implementations.
 
 | Algorithm                        | C                  | CPP                | Java               | Python2            | Python3            | Golang | JavaScript | C#    | TypeScript |
 | :---                             | :---:              | :---:              | :---:              | :---:              | :---               | :---:  | :---:      | :---: | :---:      |
-| Bin Sort                         |                    |                    |                    |                    |                    |        |            |       |            |
+| Bin Sort                         |                    |                    |                    |                    |                    |        |:white_check_mark:|       |            |
 | Binary Search                    | :white_check_mark: | :white_check_mark: | :white_check_mark: |                    | :white_check_mark: |        |            |       |            |
 | Breadth First Search             |                    |                    |                    |                    |                    |        |            |       |            |
 | Breadth First Traversal          |                    |                    |                    |                    |                    |        |            |       |            |
